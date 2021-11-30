@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I just love **bold text.**<br>
+Italicized text is the *cat's meow*.
