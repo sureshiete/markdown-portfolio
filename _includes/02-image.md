@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Logo of IEDC](https://github.com/iedcalameen/IEDC-Alameen/blob/master/images/logo.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
